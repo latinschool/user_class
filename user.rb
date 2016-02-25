@@ -28,12 +28,10 @@
 
 
 #### TEST YOUR USER CLASS BY CREATING MAY USER OBJECTS #####
-	
 	#Create at least 3 new user objects here:
 
 
 
 
 #### CALL METHODS ON YOUR USER OBJECTS ####
-
 	#Call at least two methods on each of your user classes
