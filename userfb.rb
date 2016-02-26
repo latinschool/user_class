@@ -15,13 +15,6 @@ class User
 		return @email
 	end
 
-	def login(email, password)
-		if @email == email && @pasword == password
-			puts "Wala!"
-		else
-			puts "Denied."
-		end
-	end
 end
 
 liza = User.new("email", "bithdate", "password")
